@@ -1,0 +1,18 @@
+﻿About=modo Plugin for Deadline
+ConcurrentTasks=True
+
+RenderExecutable3xx=C:\Program Files\Luxology\modo 302\modo_cl.exe;C:\Program Files (x86)\Luxology\modo 302\modo_cl.exe;/Applications/modo.app/Contents/MacOS/modo
+RenderExecutable4xx=C:\Program Files\Luxology\modo 401\modo_cl.exe;C:\Program Files (x86)\Luxology\modo 401\modo_cl.exe;/Applications/modo.app/Contents/MacOS/modo
+RenderExecutable5xx=C:\Program Files\Luxology\modo\501\modo_cl.exe;C:\Program Files (x86)\Luxology\modo\501\modo_cl.exe;/Applications/modo.app/Contents/MacOS/modo_cl
+RenderExecutable6xx=C:\Program Files\Luxology\modo\601\modo_cl.exe;C:\Program Files (x86)\Luxology\modo\601\modo_cl.exe;/Applications/modo.app/Contents/MacOS/modo_cl
+RenderExecutable7xx=C:\Program Files\Luxology\modo\701_sp3\modo_cl.exe;C:\Program Files (x86)\Luxology\modo\701_sp3\modo_cl.exe;/Applications/modo.app/Contents/MacOS/modo_cl
+RenderExecutable8xx=C:\Program Files\Luxology\modo\801_sp3\modo_cl.exe;C:\Program Files (x86)\Luxology\modo\801_sp1\modo_cl.exe;/Applications/modo 801_sp1.app/Contents/MacOS/modo_cl
+RenderExecutable9xx=C:\Program Files\Luxology\modo\901_SP3\modo_cl.exe;/Applications/modo 901_sp3.app/Contents/MacOS/modo_cl
+RenderExecutable902=C:\Program Files\Luxology\modo\902_SP1\modo_cl.exe;/Applications/modo 902_sp1.app/Contents/MacOS/modo_cl
+RenderExecutable10xx=C:\Program Files\Luxology\modo\10.2v1\modo_cl.exe;/Applications/modo 10.2v1.app/Contents/MacOS/modo_cl
+
+GeoCacheEnabled=False
+GeoCacheBuffer=512
+
+EnablePathMapping=False
+MassagePaths=true
